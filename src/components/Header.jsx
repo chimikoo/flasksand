@@ -43,7 +43,7 @@ const Header = () => {
                 <li><a href="#about">Om Oss</a></li>
                 <li><a href="#gallery">Galleria</a></li>
                 <li><a href="#services">Services</a></li>
-                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#testimonials">Title</a></li>
                 <li><a href="#sponsorer">Sponsorer</a></li>
               </ul>
             </nav>
@@ -59,9 +59,9 @@ const Header = () => {
       <div id="banner-content" className="row clearfix">
         <div className="col-38">
           <div className="section-heading">
-            <h1>Flasksand</h1>
+            <h1>Flakasand</h1>
             <h2>
-              Det här är början på Flasksands Hemsida!
+              Rock & Blues Festival
             </h2>
           </div>
         </div>

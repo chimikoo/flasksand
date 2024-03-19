@@ -14,7 +14,7 @@ const ContentSection = () => {
         <div class="col-3">
           <div class="section-heading">
             <h3>Vet inte vad vi ska ha här</h3>
-            <h2 class="section-title">2023 Flasksand!</h2>
+            <h2 class="section-title">2023 Flakasand!</h2>
             <p class="section-subtitle">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
