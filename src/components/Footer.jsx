@@ -1,4 +1,3 @@
-// Footer Component
 import React from "react";
 
 const Footer = () => {
@@ -7,7 +6,7 @@ const Footer = () => {
       <div className="row clearfix">
         <p id="copyright" className="col-2">
           Made with love by{" "}
-          <a href="https://www.shapingrain.com">ShapingRain</a>
+          <a href="https://github.com/chimikoo">Per-Emil Johansson</a>
         </p>
         <ul className="col-2 social-icons">
           <li>
@@ -18,16 +17,6 @@ const Footer = () => {
             >
               <i className="fa fa-facebook fa-1x"></i>
               <span>Facebook</span>
-            </a>
-          </li>
-          <li>
-            <a
-              target="_blank"
-              title="Google+"
-              href="http://google.com/+username"
-            >
-              <i className="fa fa-google-plus fa-1x"></i>
-              <span>Google+</span>
             </a>
           </li>
           <li>
@@ -48,12 +37,6 @@ const Footer = () => {
             >
               <i className="fa fa-instagram fa-1x"></i>
               <span>Instagram</span>
-            </a>
-          </li>
-          <li>
-            <a target="_blank" title="behance" href="http://www.behance.net">
-              <i className="fa fa-behance fa-1x"></i>
-              <span>Behance</span>
             </a>
           </li>
         </ul>

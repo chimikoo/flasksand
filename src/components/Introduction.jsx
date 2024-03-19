@@ -6,9 +6,9 @@ const Introduction = () => {
       <div className="row clearfix">
         <div className="col-3">
           <div className="section-heading">
-            <h3>SUCCESS</h3>
+            <h3>Festival!</h3>
             <h2 className="section-title">
-              How We Help You To Sell Your Product
+              Villka är vi?
             </h2>
             <p className="section-subtitle">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -30,7 +30,7 @@ const Introduction = () => {
             </div>
             {/* <!--Icon Block Description--> */}
             <div class="icon-block-description">
-              <h4>HTML5 &amp; CSS3</h4>
+              <h4>Bira &amp; Sprit</h4>
               <p>
                 Has ne tritani atomorum conclusionemque, in dolorum volumus
                 cotidieque eum. At vis choro neglegentur iudico
@@ -50,7 +50,7 @@ const Introduction = () => {
             </div>
             {/* <!--Icon Block Description--> */}
             <div class="icon-block-description">
-              <h4>Easy to Use</h4>
+              <h4>Musik</h4>
               <p>
                 Cu vero ipsum vim, doctus facilisi sea in. Eam ex falli
                 honestatis repudiandae, sit detracto mediocrem disputationi
@@ -70,7 +70,7 @@ const Introduction = () => {
             </div>
             {/* <!--Icon Block Description--> */}
             <div class="icon-block-description">
-              <h4>Fully Responsive</h4>
+              <h4>Artister</h4>
               <p>
                 Id porro tritani recusabo usu, eum intellegam consequuntur et.
                 Fugit debet ea sit, an pro nemore vivendum
@@ -90,7 +90,7 @@ const Introduction = () => {
             </div>
             {/* <!--Icon Block Description--> */}
             <div class="icon-block-description">
-              <h4>Parallax Effect</h4>
+              <h4>Grill!</h4>
               <p>
                 Id porro tritani recusabo usu, eum intellegam consequuntur et.
                 Fugit debet ea sit, an pro nemore vivendum

@@ -7,23 +7,14 @@ const ContentSection = () => {
         {/* Fill in your content here */}
         {/* <!--Content Left Side--> */}
         <div class="col-3">
-          {/* <!--User Testimonial--> */}
-          <blockquote class="testimonial text-right bigtest">
-            <q>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
-            </q>
-            <footer>— John Doe, Happy Customer</footer>
-          </blockquote>
-          {/* <!-- End of Testimonial--> */}
         </div>
         {/* <!--End Content Left Side--> */}
 
         {/* <!--Content of the Right Side--> */}
         <div class="col-3">
           <div class="section-heading">
-            <h3>BELIEVING</h3>
-            <h2 class="section-title">Focusing On What Matters Most</h2>
+            <h3>Vet inte vad vi ska ha här</h3>
+            <h2 class="section-title">2023 Flasksand!</h2>
             <p class="section-subtitle">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut

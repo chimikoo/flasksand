@@ -10,9 +10,7 @@ const Clients = () => {
             <h3>Samarbeten</h3>
             <h2 class="section-title">Sponsorer</h2>
             <p class="section-subtitle">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam!
+              Här är hjältar som hjälper till att göra det vi gör till värklighet!
             </p>
           </div>
         </div>

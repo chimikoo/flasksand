@@ -39,13 +39,12 @@ const Header = () => {
             {/* Main Navigation */}
             <nav id="nav-main">
               <ul>
-                <li><a href="#banner">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#banner">Hem</a></li>
+                <li><a href="#about">Om Oss</a></li>
+                <li><a href="#gallery">Galleria</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#testimonials">Testimonials</a></li>
-                <li><a href="#clients">Clients</a></li>
-                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#sponsorer">Sponsorer</a></li>
               </ul>
             </nav>
             {/* End of Main Navigation */}
@@ -62,15 +61,9 @@ const Header = () => {
           <div className="section-heading">
             <h1>Flasksand</h1>
             <h2>
-              Namari is a free landing page template you can use for your
-              projects. It is free to use for your personal and commercial
-              projects, enjoy!
+              Det här är början på Flasksands Hemsida!
             </h2>
           </div>
-
-          {/* Call to Action */}
-          <a href="#" className="button">START CREATING TODAY</a>
-          {/* End Call to Action */}
         </div>
       </div>
       {/* End of Row */}

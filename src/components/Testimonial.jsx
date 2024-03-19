@@ -10,8 +10,8 @@ const Testimonials = () => {
       <div className="row clearfix">
         {/* Fill in your testimonials here */}
         <div class="section-heading">
-          <h3>FEEDBACK</h3>
-          <h2 class="section-title">What our customers are saying</h2>
+          <h3>Vet inte vad jag ska ha här</h3>
+          <h2 class="section-title">Title</h2>
         </div>
 
         {/* <!--User Testimonial--> */}
@@ -21,7 +21,7 @@ const Testimonials = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua
           </q>
-          <footer>John Doe - Happy Customer</footer>
+          <footer>????</footer>
         </blockquote>
         {/* <!-- End of Testimonial--> */}
 
@@ -32,7 +32,7 @@ const Testimonials = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua
           </q>
-          <footer>Roslyn Doe - Happy Customer</footer>
+          <footer>Hmmmm??</footer>
         </blockquote>
         {/* <!-- End of Testimonial--> */}
 
@@ -43,7 +43,7 @@ const Testimonials = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua
           </q>
-          <footer>Thomas Doe - Happy Customer</footer>
+          <footer>But why?!</footer>
         </blockquote>
         {/* <!-- End of Testimonial--> */}
       </div>
