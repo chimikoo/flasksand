@@ -42,7 +42,7 @@ const Header = () => {
                 <li><a href="#banner">Hem</a></li>
                 <li><a href="#about">Om Oss</a></li>
                 <li><a href="#gallery">Galleria</a></li>
-                <li><a href="#services">Services</a></li>
+                <li><a href="#services">Nyheter</a></li>
                 <li><a href="#testimonials">Title</a></li>
                 <li><a href="#sponsorer">Sponsorer</a></li>
               </ul>
