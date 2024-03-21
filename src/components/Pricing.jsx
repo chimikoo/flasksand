@@ -6,14 +6,14 @@ const PricingTables = () => {
         <section id="pricing" className="secondary-color text-center scrollto clearfix">
             <div className="row clearfix">
                 <div className="section-heading">
-                    <h3>YOUR CHOICE</h3>
-                    <h2 className="section-title">We have the right package for you</h2>
+                    <h3>Ditt val!</h3>
+                    <h2 className="section-title">BILJETTER!</h2>
                 </div>
 
                 {/* Pricing Block 1 */}
                 <div className="pricing-block col-3 wow fadeInUp" data-wow-delay="0.4s">
                     <div className="pricing-block-content">
-                        <h3>Personal</h3>
+                        <h3>Förköp</h3>
                         <p className="pricing-sub">The standard version</p>
                         <div className="pricing">
                             <div className="price"><span>$</span>19</div>
@@ -34,7 +34,7 @@ const PricingTables = () => {
                 {/* Pricing Block 2 */}
                 <div className="pricing-block featured col-3 wow fadeInUp" data-wow-delay="0.6s">
                     <div className="pricing-block-content">
-                        <h3>Student</h3>
+                        <h3>Förköp med buss</h3>
                         <p className="pricing-sub">Most popular choice</p>
                         <div className="pricing">
                             <div className="price"><span>$</span>29</div>

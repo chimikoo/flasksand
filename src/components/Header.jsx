@@ -18,7 +18,7 @@ const Header = () => {
               {/* Social Icons in Header */}
               <ul className="social-icons">
                 <li>
-                  <a target="_blank" title="Facebook" href="https://www.facebook.com/username">
+                  <a target="_blank" title="Facebook" href="https://www.facebook.com/pages/Flakasand">
                     <i className="fa fa-facebook fa-1x"></i><span>Facebook</span>
                   </a>
                 </li>

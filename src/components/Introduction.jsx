@@ -7,9 +7,7 @@ const Introduction = () => {
         <div className="col-3">
           <div className="section-heading">
             <h3>Festival!</h3>
-            <h2 className="section-title">
-              Villka är vi?
-            </h2>
+            <h2 className="section-title">Villka är vi?</h2>
             <p className="section-subtitle">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -30,10 +28,10 @@ const Introduction = () => {
             </div>
             {/* <!--Icon Block Description--> */}
             <div class="icon-block-description">
-              <h4>Bira &amp; Sprit</h4>
+              <h4>Mat &amp; Dryck </h4>
               <p>
-                Has ne tritani atomorum conclusionemque, in dolorum volumus
-                cotidieque eum. At vis choro neglegentur iudico
+                Setra Bar & Bistro på festivalens område. Du kan betala med
+                kontanter. Du kan även betala med Swish i Setra Bar & Bistro.
               </p>
             </div>
           </div>
@@ -70,10 +68,10 @@ const Introduction = () => {
             </div>
             {/* <!--Icon Block Description--> */}
             <div class="icon-block-description">
-              <h4>Artister</h4>
+              <h4>On-Stage</h4>
               <p>
-                Id porro tritani recusabo usu, eum intellegam consequuntur et.
-                Fugit debet ea sit, an pro nemore vivendum
+                Just nu så kommer väldigt tuffa blue's artister till vårat lilla
+                angagemang.
               </p>
             </div>
           </div>

@@ -5,6 +5,7 @@ import Gallery from './Gallery';
 import ContentSection from './ContentSection';
 import Testimonials from './Testimonial'
 import Clients from './Sponsors'
+import Pricing from './Pricing';
 
 const MainContent = () => {
   return (
@@ -24,6 +25,8 @@ const MainContent = () => {
       {/* Testimonials */}
       <Testimonials />
       {/* End of Testimonials */}
+      
+      <Pricing />
 
       {/* Clients */}
       <Clients />
