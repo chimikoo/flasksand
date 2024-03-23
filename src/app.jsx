@@ -14,7 +14,7 @@ import "./css/font-awesome.css";
 const App = () => {
   return (
     <>
-      <Preloader />
+{/*       <Preloader /> */}
       <PageBorder />
       <Header />
       <MainContent />
