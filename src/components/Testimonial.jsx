@@ -16,7 +16,7 @@ const Testimonials = () => {
 
         {/* <!--User Testimonial--> */}
         <blockquote class="col-3 testimonial classic">
-          <img src="/src/images/user-images/user-1.jpg" alt="User" />
+          <img src="/images/user-images/user-1.jpg" alt="User" />
           <p>
             ZZtops
           </p>
@@ -26,7 +26,7 @@ const Testimonials = () => {
 
         {/* <!--User Testimonial--> */}
         <blockquote class="col-3 testimonial classic">
-          <img src="/src/images/user-images/user-2.jpg" alt="User" />
+          <img src="/images/user-images/user-2.jpg" alt="User" />
           <q>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -37,7 +37,7 @@ const Testimonials = () => {
 
         {/* <!--User Testimonial--> */}
         <blockquote class="col-3 testimonial classic">
-          <img src="/src/images/user-images/user-3.jpg" alt="User" />
+          <img src="/images/user-images/user-3.jpg" alt="User" />
           <q>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -48,7 +48,7 @@ const Testimonials = () => {
 
         {/* <!--User Testimonial--> */}
         <blockquote class="col-3 testimonial classic">
-          <img src="/src/images/user-images/user-3.jpg" alt="User" />
+          <img src="/images/user-images/user-3.jpg" alt="User" />
           <q>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -59,7 +59,7 @@ const Testimonials = () => {
 
         {/* <!--User Testimonial--> */}
         <blockquote class="col-3 testimonial classic">
-          <img src="/src/images/user-images/user-3.jpg" alt="User" />
+          <img src="/images/user-images/user-3.jpg" alt="User" />
           <q>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -70,7 +70,7 @@ const Testimonials = () => {
 
         {/* <!--User Testimonial--> */}
         <blockquote class="col-3 testimonial classic">
-          <img src="/src/images/user-images/user-3.jpg" alt="User" />
+          <img src="/images/user-images/user-3.jpg" alt="User" />
           <q>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua

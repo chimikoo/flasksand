@@ -46,7 +46,7 @@ const ContentSection = () => {
         {/* <!--End Content Right Side--> */}
 
         <div class="col-3">
-          <img src="/src/images/dancer.jpg" alt="Dancer" />
+          <img src="/images/dancer.jpg" alt="Dancer" />
         </div>
       </div>
     </div>

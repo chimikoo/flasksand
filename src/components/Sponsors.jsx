@@ -18,7 +18,7 @@ const Clients = () => {
         <div class="col-2-3">
           <a href="#" class="col-3">
             <img
-            src="/src/images/company-images/company-logo1.png"
+            src="/images/company-images/company-logo1.png"
               alt="Company"
             />
             <div class="client-overlay">
@@ -27,7 +27,7 @@ const Clients = () => {
           </a>
           <a href="#" class="col-3">
             <img
-              src="/src/images/company-images/company-logo2.png"
+              src="/images/company-images/company-logo2.png"
               alt="Company"
             />
             <div class="client-overlay">
@@ -36,7 +36,7 @@ const Clients = () => {
           </a>
           <a href="#" class="col-3">
             <img
-              src="/src/images/company-images/company-logo3.png"
+              src="/images/company-images/company-logo3.png"
               alt="Company"
             />
             <div class="client-overlay">
@@ -45,7 +45,7 @@ const Clients = () => {
           </a>
           <a href="#" class="col-3">
             <img
-              src="/src/images/company-images/company-logo4.png"
+              src="/images/company-images/company-logo4.png"
               alt="Company"
             />
             <div class="client-overlay">
@@ -54,7 +54,7 @@ const Clients = () => {
           </a>
           <a href="#" class="col-3">
             <img
-              src="/src/images/company-images/company-logo5.png"
+              src="/images/company-images/company-logo5.png"
               alt="Company"
             />
             <div class="client-overlay">
@@ -63,7 +63,7 @@ const Clients = () => {
           </a>
           <a href="#" class="col-3">
             <img
-              src="/src/images/company-images/company-logo6.png"
+              src="/images/company-images/company-logo6.png"
               alt="Company"
             />
             <div class="client-overlay">
@@ -72,7 +72,7 @@ const Clients = () => {
           </a>
           <a href="#" class="col-3">
             <img
-              src="/src/images/company-images/company-logo7.png"
+              src="/images/company-images/company-logo7.png"
               alt="Company"
             />
             <div class="client-overlay">
@@ -81,7 +81,7 @@ const Clients = () => {
           </a>
           <a href="#" class="col-3">
             <img
-              src="/src/images/company-images/company-logo8.png"
+              src="/images/company-images/company-logo8.png"
               alt="Company"
             />
             <div class="client-overlay">
@@ -91,7 +91,7 @@ const Clients = () => {
 
           <a href="#" class="col-3">
             <img
-              src="/src/images/company-images/company-logo9.png"
+              src="/images/company-images/company-logo9.png"
               alt="Company"
             />
             <div class="client-overlay">

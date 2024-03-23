@@ -9,8 +9,8 @@ const Header = () => {
 
             {/* Logo */}
             <div id="logo">
-              <img src="/src/images/logo.png" id="banner-logo" alt="Landing Page"/>
-              <img src="/src/images/logo-2.png" id="navigation-logo" alt="Landing Page"/>
+              <img src="/images/logo.png" id="banner-logo" alt="Landing Page"/>
+              <img src="/images/logo-2.png" id="navigation-logo" alt="Landing Page"/>
             </div>
             {/* End of Logo */}
 
