@@ -390,6 +390,13 @@ section {
     border-style: solid;
 }
 
+.button:disabled{
+    background-color: #ccc; /* Gray background */
+    color: #666; /* Dark gray text */
+    cursor: not-allowed; /* Change cursor to indicate non-interactivity */
+  }
+
+
 /* Play Button */
 
 #video-section {
@@ -1478,8 +1485,8 @@ blockquote {
 
 .price span {
     position: absolute;
-    top: 0;
-    left: -20px;
+    top: 35px;
+    left: 110px;
     font-size: 22px;
 }
 

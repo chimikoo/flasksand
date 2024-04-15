@@ -40,7 +40,7 @@ const ContentSection = () => {
             data-videosite="youtube"
             class="button video link-lightbox"
           >
-            WATCH VIDEO <i class="fa fa-play" aria-hidden="true"></i>
+            KOLLA HÄR <i class="fa fa-play" aria-hidden="true"></i>
           </a>
         </div>
         {/* <!--End Content Right Side--> */}
