@@ -7,10 +7,7 @@ const Header = () => {
         <div className="row clearfix">
           <div className="col-1">
             {/* Logo */}
-            <div id="logo">
-              {/*               <img src="/images/logo.png" id="banner-logo" alt="Landing Page"/>
-              <img src="/images/logo-2.png" id="navigation-logo" alt="Landing Page"/> */}
-            </div>
+            <div id="logo"></div>
             {/* End of Logo */}
 
             <aside>
